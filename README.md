@@ -22,9 +22,9 @@ Software Engineer(2018.02 - 현재)<br/>
 - 법인카드, FB 전표처리 시스템 유지보수 개발
 - 전자세금계산서 발행 및 역발행 시스템 관리와 부과세 및 계산서 신고업무
 - 개인 및 기업대출에 대한 대손충당금 산출을 위한 IFRS4 마감 작업<br/>
-성과**<br/>
+**성과**<br/>
 - 상환방식이 불규칙상환에 대한 엑셀 수기처리에 대해 쿼리 구현을 통해 수기처리를 자동화 되도록 프로세스 개선<br/>
-사용기술/툴**<br/>
+**사용기술/툴**<br/>
 - Java, Pro*C, Shell, HTML, JSP, Oracle, Tibero
 - Spectrum, NCRM, UltraEdit, ProWeb, TEAMS, NGS, Jflow, Control-M, Harvest, QueryOne<br/>
 
